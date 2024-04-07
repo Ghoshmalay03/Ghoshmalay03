@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malay
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning HTML5, CSS, JS, Python
+- 👀 I’m interested in programing languages
+- 🌱 I’m currently learning HTML5, CSS, JS, Python, C, SQL
 - 💞️ GDC 
 - 📫 Email:- malayghosh2003.mg@gmail.com
 - 😄 Pronouns: he/him
